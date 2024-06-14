@@ -12,7 +12,7 @@ header {
 }
 
 input {
-  padding: 5px;
+  padding: 7px;
 }
 
 .categories {
@@ -22,7 +22,7 @@ input {
 }
 
 .categories button {
-  margin: 5px;
+  margin: 7px;
   padding: 5px 10px;
 }
 
